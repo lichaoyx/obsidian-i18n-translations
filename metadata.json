@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "tet30WkWhg-VxpuH42WzrsevrFNAiwPR",
+        "plugin": "obsidian42-brat",
+        "language": "zh-cn",
+        "version": "2.0.8",
+        "supported_versions": "2.0.8",
+        "title": "BRAT",
+        "description": "BRAT Localization & Tweaks",
+        "hash": "4ce076474ce076474ce076474ce07647",
+        "created_at": "2026-10-08T08:18:27.202Z",
+        "updated_at": "2026-10-08T08:18:27.202Z",
+        "type": "plugin"
+    }
+]
